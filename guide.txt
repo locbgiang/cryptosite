@@ -1,0 +1,18 @@
+1. Install ant design: 
+    npm install antd 
+    npm install @ant-design/icons
+2. Install redux: 
+    npm install react-redux 
+    npm install @reduxjs/toolkit
+3. Install axios to use api: 
+    npm install axios
+4. Install chart: 
+    npm install chart.js
+5. Install html-react-parser: 
+    npm install html-react-parser
+6. Install millify, transform large number into readable strings: 
+    npm install millify
+7. Install moment, parse time and date: 
+    npm install moment
+8. Install react-chartjs-2 to render charts: 
+    npm install react-chartjs-2
