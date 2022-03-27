@@ -57,7 +57,7 @@ const News = ({ simplified }) => {
                                         {news.provider[0]?.name}
                                     </Text>
                                 </div>
-                                <Text>{moment(news.datePublished).startOf('ss').fromNow()} </Text>
+                                <Text>{moment(news.datePublished).startOf('ss').fromNow()} </Text> 
                             </div>
                         </a>
                     </Card>
